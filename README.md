@@ -39,5 +39,23 @@ Get more help in the battle against phishing attacks
 
 Phishing simulations and security awareness trainings are important preventative measures, but security teams also need state-of-the-art threat detection and response capabilities to mitigate the impact of successful phishing campaigns. source : https://www.ibm.com/blog/phishing-simulation/
 
+Select a social engineering technique
+
+On the Select technique page, select an available social engineering technique:
+
+    Credential Harvest*
+    Malware Attachment
+    Link in Attachment
+    Link to Malware*
+    Drive-by URL
+    OAuth Consent Grant*
+    How-to Guide*
+
+* This social engineering technique allows you to use QR codes (currently in Preview). For more information, see the QR code simulations and training section later in this article.
+
+If you select the View details link in the description, a details flyout opens that describes the technique and the simulation steps that result from the technique.
+
+For more information about the different social engineering techniques, see Simulations.
+
 
 Phishing is a major headache for information security professionals. As attackers move away from infrastructure and focus on people as targets, phishing emails are becoming the leading social engineering channel. And more popular phishing email types like impostor or business email compromise and ransomware are making this problem even more challenging for security teams to manage.
